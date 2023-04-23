@@ -30,7 +30,7 @@ OpenCore中补丁使用的[SSDT-BATX](https://github.com/simprecicchiani/ThinkPa
 
 对于Clover，如果你的设备有双电池，可能需要耗尽第一块电池后才会显示第二块电池信息(不确定，自行测试)
 
-对于OpenCore，电池信息将返回平均值(不准确) [没有技术，不会修改SSDT以实现更准确的电池信息]
+对于OpenCore，电池信息应该是返回平均值(不准确) [没有技术，不会修改SSDT以实现更准确的电池信息]
 
 **苹果服务** : iMessage、iCloud、App Store等均正常使用 (**谨记注入三码(SMBIOS)！！！** **_此EFI已清空三码(SMBIOS)_** )
 

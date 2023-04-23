@@ -52,8 +52,8 @@ OpenCore由于是在安装后的环境下进行配置， __未知__ 安装过程
 
 **总结** : ~~全都是裁缝。~~  能进系统就行
 
-![Clover](/X260%20Hackintosh%20EFI/Clover.png "Clover")	
-![OpenCore](/X260%20Hackintosh%20EFI/OpenCore.png "OpenCore")	
+![Clover](/Clover.png "Clover")	
+![OpenCore](/OpenCore.png "OpenCore")	
 
 __感谢所有为黑苹果社区做出贡献的人__
 
